@@ -202,7 +202,7 @@ See [UPGRADE_IDEAS.md](./UPGRADE_IDEAS.md) for comprehensive future plans:
 
 ### Environment Variables Required
 ```env
-DATABASE_URL=
+database_url=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 GEMINI_API_KEY=
