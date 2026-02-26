@@ -38,7 +38,7 @@ Now edit the `.env` file and add your keys:
 
 If you have PostgreSQL installed locally:
 ```env
-DATABASE_URL="postgresql://postgres:password@localhost:5432/ai_career_coach"
+database_url="postgresql://postgres:password@localhost:5432/ai_career_coach"
 ```
 
 **Or use a free cloud database:**
